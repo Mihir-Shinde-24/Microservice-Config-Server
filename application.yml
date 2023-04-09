@@ -1,8 +1,4 @@
-spring:
-  application:
-    name: CONFIG-DEFAULT
-
-# ServiceRegistryClient Config
+# ServiceRegistryClient Config For MicroServices
 eureka:
   instance:
     prefer-ip-address: true
